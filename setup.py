@@ -1,9 +1,8 @@
 import setuptools
 
-
 setuptools.setup(
     name='tf_package_management',
-    version='0.0.7',
+    version='0.0.10',
     auther='Jesper Thoft Illemann Jæger',
     author_email='jesperjag86@gmail.com',
     description='package management system on github',
