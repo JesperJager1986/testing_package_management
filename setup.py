@@ -1,7 +1,6 @@
 import setuptools
-from tf_package_management import main
 
-main.testing()
+
 setuptools.setup(
     name='tf_package_management',
     version='0.0.7',
